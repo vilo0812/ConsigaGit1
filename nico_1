@@ -11,6 +11,7 @@ Delta compression using up to 11 threads
 Compressing objects: 100% (4/4), done.
 Writing objects: 100% (4/4), 452 bytes | 452.00 KiB/s, done.
 Total 4 (delta 1), reused 0 (delta 0), pack-reused 0
+Klaus: este es un conflicto creo
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/vilo0812/ConsigaGit1.git
    2c78014..20611c8  main -> main
